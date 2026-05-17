@@ -14,7 +14,7 @@
 
 **[智能元提示词生成系统 V0.6](prompts/01-ai-methods/rtf-meta-prompt-system-v06.md)**：基于 RTF 框架，把需求分析、角色工程、任务架构、格式规范和质量评估串成一套可复用流程，适合作为生成高质量提示词的起点。
 
-**[宽幅知识插画信息图生成器](prompts/06-ai-content/wide-knowledge-infographic-generator.md)**：把一段文案提炼为适合社交媒体和 PPT 展示的宽幅知识插画信息图，强调结构提炼、视觉分层和中文可读性。
+**[宽幅知识插画信息图生成器](prompts/06-ai-content/wide-knowledge-infographic-generator.md)**：把一段文案提炼为适合社交媒体和 PPT 展示的宽幅知识插画信息图，强调结构提炼、视觉分层和极简中文表达。
 
 ## 专题入口
 
